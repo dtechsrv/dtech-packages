@@ -1,6 +1,9 @@
+2
+- updated to 1.18.1
+
 1
 - updated to 1.17.9
-- improve stored key parsing by the bootstrap script
+- stored key parsing improvements in bootstrap script
 
 0
 - initial version
