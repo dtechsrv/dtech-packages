@@ -4,7 +4,8 @@ After=network-online.target
 
 [Service]
 Type=oneshot
-ExecStart=/bin/sh -c "exec sh /storage/.kodi/addons/service.makemkv/bin/libmakemkv-bootstrap.start"
+ExecStart=/storage/.kodi/addons/service.makemkv/bin/libmakemkv-bootstrap.start
+SyslogIdentifier=makemkv
 RemainAfterExit=yes
 
 [Install]

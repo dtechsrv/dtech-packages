@@ -3,10 +3,10 @@
 # Copyright (C) 2022-present Gabor Dee (dee.gabor@gmail.com)
 
 PKG_NAME="makemkv"
-PKG_VERSION="1.18.2"
-PKG_SHA256="b9497f5555c257f5d3c7f18b6ab03c74cff3ea4437e80349d618d115bf5fa445"
-PKG_REV="3"
-PKG_ARCH="x86_64 arm aarch64"
+PKG_VERSION="1.18.4"
+PKG_SHA256="8590063648d42ec2a958b74573d7022f0f4c334e4e4fe7dd53b70c6e748ba453"
+PKG_REV="4"
+PKG_ARCH="any"
 PKG_LICENSE="OSS"
 PKG_SITE="https://www.makemkv.com/"
 PKG_URL="https://www.makemkv.com/download/makemkv-oss-${PKG_VERSION}.tar.gz"
